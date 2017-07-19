@@ -1,0 +1,1 @@
+A C# web service to call via TCP windows service to create thumbnail from CMS service.

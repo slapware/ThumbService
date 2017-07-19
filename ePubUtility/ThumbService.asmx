@@ -1,0 +1,1 @@
+﻿<%@ WebService Language="C#" CodeBehind="ThumbService.asmx.cs" Class="ePubUtility.Service1" %>

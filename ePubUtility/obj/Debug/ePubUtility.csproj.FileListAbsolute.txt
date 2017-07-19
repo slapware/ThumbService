@@ -1,0 +1,5 @@
+D:\slapware\2010\ePubUtility\ePubUtility\bin\ePubUtility.dll
+D:\slapware\2010\ePubUtility\ePubUtility\bin\ePubUtility.pdb
+D:\slapware\2010\ePubUtility\ePubUtility\obj\Debug\ResolveAssemblyReference.cache
+D:\slapware\2010\ePubUtility\ePubUtility\obj\Debug\ePubUtility.dll
+D:\slapware\2010\ePubUtility\ePubUtility\obj\Debug\ePubUtility.pdb
